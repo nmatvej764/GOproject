@@ -1,0 +1,14 @@
+
+*.exe
+*.out
+*.test
+*.log
+bin/
+tmp/
+/dist/
+/vendor/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
